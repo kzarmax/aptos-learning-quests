@@ -3,7 +3,7 @@ Overmind quests solved by myself and earned Aptos coin
 
 ## Quests
 - [Diamond clicker](./diamond-clicker)
-- [Broker it yourself](./brocker-it-yourself)
+- [Broker it yourself](./broker-it-yourself)
 - [Capability heist](./capability-heist)
-- [Longswords and dragons](./lognswords-and-dragons)
+- [Longswords and dragons](./longswords-and-dragons)
 - [Slice the jpeg](./slice-the-jpeg)
