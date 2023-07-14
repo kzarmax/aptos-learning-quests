@@ -6,10 +6,10 @@ Fractionalize your NFTs and trade those fractions with AptosCoin. Explore adding
 The Overmind Marketplace keeps things thrilling by allowing owners of a high enough percentage of fractionals to perform a call and buy out the remainder of the fractionals needed to grab the original NFT. The rest of the fractional holders may now only redeem their fractions for AptosCoin - you snooze, you loose!
 
 ## Recommended Concepts
-​ to transform your singular NFT into tradeable pieces and manageable its tokenomics - total and circulating supply
-​ to govern the fungible pieces by providing a deterministic store resource in user accounts
-​ to track key marketplace data such as price of fractions and origin NFT metadata
-​ with a special focus on manipulating refs. 
+- fungible_asset: to transform your singular NFT into tradeable pieces and manageable its tokenomics - total and circulating supply
+- primary_fungible_store:​ to govern the fungible pieces by providing a deterministic store resource in user accounts
+- property_map:​ to track key marketplace data such as price of fractions and origin NFT metadata
+- Object standard:​ with a special focus on manipulating refs. 
 
 ## Quest Features
 - init_module():
