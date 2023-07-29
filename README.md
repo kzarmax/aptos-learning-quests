@@ -7,3 +7,4 @@ Overmind quests solved by myself and earned Aptos coin
 - [Capability heist](./capability-heist)
 - [Longswords and dragons](./longswords-and-dragons)
 - [Slice the jpeg](./slice-the-jpeg)
+- [Senate of the Overmind](./senate-of-the-overmind)
